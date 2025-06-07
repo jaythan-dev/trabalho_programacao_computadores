@@ -20,7 +20,7 @@
 
     O programa printa no terminal uma lista com cada função sendo representada por um número (1, 2, 3, 4, 5).
     
-    O usuário deve digitar o número correspondente da função para que ela seja executada (ex: 1 - Mostra a hora) e caso hajam parâmetros, deve digita-los (ex: a função                        Despertador requer que digite horas e minutos (ex: 11:30, 12:00)
+    O usuário deve digitar o número correspondente da função para que ela seja executada (ex: 1 - Mostra a hora) e caso hajam parâmetros, deve digita-los (ex: a função Despertador requer     que digite horas e minutos (ex: 11:30, 12:00)
 
     Para trocar entre cada função, aperte CTRL + V, e a função será encerrada, permitindo que o usuário escolha novamente.
 
